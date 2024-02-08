@@ -1,0 +1,33 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  label {
+    margin-right: 8px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
+  .error-message {
+    display: block;
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #00d8ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
